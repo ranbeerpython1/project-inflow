@@ -1,0 +1,44 @@
+{
+  "ACC001": {
+    "status": "fail",
+    "issues": [
+      {
+        "type": "balance_break",
+        "txn_id": "bank_a_1.csv:19",
+        "expected": "-125200.00",
+        "actual": "-167200.00"
+      }
+    ]
+  },
+  "ACC002": {
+    "status": "fail",
+    "issues": [
+      {
+        "type": "duplicate_row",
+        "txn_id": "bank_a_2.csv:20"
+      },
+      {
+        "type": "balance_break",
+        "txn_id": "bank_a_2.csv:20",
+        "expected": "36350.00",
+        "actual": "39850.00"
+      }
+    ]
+  },
+  "ACC003": {
+    "status": "pass",
+    "issues": []
+  },
+  "ACC004": {
+    "status": "pass",
+    "issues": []
+  },
+  "ACC005": {
+    "status": "pass",
+    "issues": []
+  },
+  "ACC006": {
+    "status": "pass",
+    "issues": []
+  }
+}

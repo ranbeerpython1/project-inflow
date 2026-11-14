@@ -1,0 +1,60 @@
+{
+  "ACC001": {
+    "status": "needs_review",
+    "reasons": [
+      "reconciliation_failed"
+    ],
+    "average_monthly_credits": "3962.50",
+    "average_monthly_emi_outflow": "14950.00",
+    "foir": "9.0606",
+    "bounce_count": 6,
+    "total_bounce_charges": "50000.00"
+  },
+  "ACC002": {
+    "status": "needs_review",
+    "reasons": [
+      "reconciliation_failed"
+    ],
+    "average_monthly_credits": "39583.33",
+    "average_monthly_emi_outflow": "7658.33",
+    "foir": "0.5022",
+    "bounce_count": 6,
+    "total_bounce_charges": "87800.00"
+  },
+  "ACC003": {
+    "status": "ready",
+    "reasons": [],
+    "average_monthly_credits": "30670.83",
+    "average_monthly_emi_outflow": "14408.33",
+    "foir": "0.9746",
+    "bounce_count": 6,
+    "total_bounce_charges": "91400.00"
+  },
+  "ACC004": {
+    "status": "ready",
+    "reasons": [],
+    "average_monthly_credits": "11095.83",
+    "average_monthly_emi_outflow": "8650.00",
+    "foir": "6.2342",
+    "bounce_count": 6,
+    "total_bounce_charges": "5150.00"
+  },
+  "ACC005": {
+    "status": "ready",
+    "reasons": [],
+    "average_monthly_credits": "25133.33",
+    "average_monthly_emi_outflow": "2116.67",
+    "foir": "0.2485",
+    "bounce_count": 6,
+    "total_bounce_charges": "17625.00"
+  },
+  "ACC006": {
+    "status": "ready",
+    "reasons": [],
+    "average_monthly_credits": "31533.33",
+    "average_monthly_emi_outflow": "1450.00",
+    "foir": "0.0953",
+    "bounce_count": 6,
+    "total_bounce_charges": "48325.00"
+  }
+}

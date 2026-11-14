@@ -1,0 +1,265 @@
+{
+  "provider": "fake",
+  "model": "deterministic-rule-backed-fake-v1",
+  "llm_calls": 8,
+  "overall": {
+    "rules": {
+      "accuracy": 0.5333333333333333,
+      "macro_f1": 0.6966666666666667,
+      "per_category": {
+        "BOUNCE_CHARGE": {
+          "precision": 1.0,
+          "recall": 0.36363636363636365
+        },
+        "BOUNCE_RETURN": {
+          "precision": 1.0,
+          "recall": 0.36363636363636365
+        },
+        "CASH_WITHDRAWAL": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "EMI_LOAN_REPAYMENT": {
+          "precision": 1.0,
+          "recall": 0.36363636363636365
+        },
+        "INTEREST": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "MERCHANT_SPEND": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "OTHER": {
+          "precision": 0.08695652173913043,
+          "recall": 1.0
+        },
+        "RENT": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SALARY": {
+          "precision": 1.0,
+          "recall": 0.36363636363636365
+        },
+        "SELF_TRANSFER": {
+          "precision": 1.0,
+          "recall": 0.36363636363636365
+        },
+        "UPI_P2P": {
+          "precision": 1.0,
+          "recall": 0.36363636363636365
+        },
+        "UTILITIES": {
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      }
+    },
+    "llm": {
+      "accuracy": 0.9555555555555556,
+      "macro_f1": 0.9686609686609686,
+      "per_category": {
+        "BOUNCE_CHARGE": {
+          "precision": 1.0,
+          "recall": 0.6363636363636364
+        },
+        "BOUNCE_RETURN": {
+          "precision": 0.7333333333333333,
+          "recall": 1.0
+        },
+        "CASH_WITHDRAWAL": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "EMI_LOAN_REPAYMENT": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "INTEREST": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "MERCHANT_SPEND": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "OTHER": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "RENT": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SALARY": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SELF_TRANSFER": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "UPI_P2P": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "UTILITIES": {
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      }
+    },
+    "hybrid": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "per_category": {
+        "BOUNCE_CHARGE": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "BOUNCE_RETURN": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "CASH_WITHDRAWAL": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "EMI_LOAN_REPAYMENT": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "INTEREST": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "MERCHANT_SPEND": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "OTHER": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "RENT": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SALARY": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SELF_TRANSFER": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "UPI_P2P": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "UTILITIES": {
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      }
+    }
+  },
+  "hard_subset": {
+    "rules": {
+      "accuracy": 0.0,
+      "macro_f1": 0.0,
+      "per_category": {
+        "BOUNCE_CHARGE": {
+          "precision": 0,
+          "recall": 0.0
+        },
+        "BOUNCE_RETURN": {
+          "precision": 0,
+          "recall": 0.0
+        },
+        "EMI_LOAN_REPAYMENT": {
+          "precision": 0,
+          "recall": 0.0
+        },
+        "OTHER": {
+          "precision": 0.0,
+          "recall": 0
+        },
+        "SALARY": {
+          "precision": 0,
+          "recall": 0.0
+        },
+        "SELF_TRANSFER": {
+          "precision": 0,
+          "recall": 0.0
+        },
+        "UPI_P2P": {
+          "precision": 0,
+          "recall": 0.0
+        }
+      }
+    },
+    "llm": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "per_category": {
+        "BOUNCE_CHARGE": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "BOUNCE_RETURN": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "EMI_LOAN_REPAYMENT": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SALARY": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SELF_TRANSFER": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "UPI_P2P": {
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      }
+    },
+    "hybrid": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "per_category": {
+        "BOUNCE_CHARGE": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "BOUNCE_RETURN": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "EMI_LOAN_REPAYMENT": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SALARY": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "SELF_TRANSFER": {
+          "precision": 1.0,
+          "recall": 1.0
+        },
+        "UPI_P2P": {
+          "precision": 1.0,
+          "recall": 1.0
+        }
+      }
+    }
+  }
+}
