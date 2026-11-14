@@ -1,0 +1,6 @@
+ACCOUNT FIXC  OPENING BALANCE 1,000.00
+DATE       DESCRIPTION                              DEBIT       CREDIT      BALANCE
+01/01/26  AMAZON PAYMENT XYZ              10.00                  990.00
+    ONLINE ORDER DETAIL
+PAGE TOTAL                                  END OF PAGE
+02/01/26  SALARY CREDIT                             500.00     1,490.00
