@@ -1,0 +1,27 @@
+ACCOUNT FIXC2  OPENING BALANCE 50,000.00
+DATE       DESCRIPTION                              DEBIT       CREDIT      BALANCE
+01/01/26  SALARY ACME CORP                                  42000.00    92,000.00
+05/01/26  NACH EMI HOMELOAN                      1,800.00               90,200.00
+09/01/26  UPI/RAHUL/PHONEPE                      2,200.00               88,000.00
+12/01/26  ELECTRICITY BILL BESCOM                3,500.00               84,500.00
+15/01/26  ATM CASH WITHDRAWAL                      900.00               83,600.00
+20/01/26  RENT PAYMENT                           1,500.00               82,100.00
+24/01/26  NEFT OWN ACCOUNT TRANSFER                700.00               81,400.00
+26/01/26  INTEREST CREDIT                                     125.00    81,525.00
+27/01/26  NACH RETURN EMI BOUNCE                 1,800.00               79,725.00
+28/01/26  NACH RETURN CHARGES                      700.00               79,025.00
+29/01/26  GROCERY MART POS VERY LONG MERCHANT     900.00               78,125.00
+    NAME CONTINUED ON NEXT LINE
+PAGE TOTAL                                  END OF PAGE
+01/02/26  SALARY ACME CORP                                  42000.00   120,125.00
+05/02/26  NACH EMI HOMELOAN                      1,800.00              118,325.00
+09/02/26  UPI/RAHUL/PHONEPE                      2,200.00              116,125.00
+12/02/26  ELECTRICITY BILL BESCOM                3,500.00              112,625.00
+15/02/26  ATM CASH WITHDRAWAL                      900.00              111,725.00
+20/02/26  RENT PAYMENT                           1,500.00              110,225.00
+24/02/26  NEFT OWN ACCOUNT TRANSFER                700.00              109,525.00
+26/02/26  INTEREST CREDIT                                     125.00   109,650.00
+PAGE TOTAL                                  END OF PAGE
+27/02/26  NACH RETURN EMI BOUNCE                 1,800.00              107,850.00
+28/02/26  NACH RETURN CHARGES                      700.00              107,150.00
+01/03/26  GROCERY MART POS                         900.00              106,250.00
