@@ -1,0 +1,312 @@
+{
+  "ACC001": {
+    "status": "needs_review",
+    "reasons": [
+      "reconciliation_failed"
+    ],
+    "months_of_history": 6,
+    "average_monthly_credits": "3962.50",
+    "salary": {
+      "average_monthly_amount": "1650.00",
+      "months_detected": 6,
+      "median_credit_day": 2.0,
+      "txn_ids": [
+        "bank_a_1.csv:4",
+        "bank_a_1.csv:15",
+        "bank_a_1.csv:25",
+        "bank_a_1.csv:36",
+        "bank_a_1.csv:47",
+        "bank_a_1.csv:58"
+      ]
+    },
+    "average_monthly_emi_outflow": "14950.00",
+    "emi_txn_ids": [
+      "bank_a_1.csv:5",
+      "bank_a_1.csv:16",
+      "bank_a_1.csv:26",
+      "bank_a_1.csv:37",
+      "bank_a_1.csv:48",
+      "bank_a_1.csv:59"
+    ],
+    "bounce_count": 6,
+    "bounce_txn_ids": [
+      "bank_a_1.csv:12",
+      "bank_a_1.csv:22",
+      "bank_a_1.csv:33",
+      "bank_a_1.csv:44",
+      "bank_a_1.csv:55",
+      "bank_a_1.csv:66"
+    ],
+    "total_bounce_charges": "50000.00",
+    "bounce_charge_txn_ids": [
+      "bank_a_1.csv:13",
+      "bank_a_1.csv:23",
+      "bank_a_1.csv:34",
+      "bank_a_1.csv:45",
+      "bank_a_1.csv:56",
+      "bank_a_1.csv:67"
+    ],
+    "average_end_of_day_balance": "-244919.94",
+    "minimum_end_of_day_balance": "-496175.00",
+    "foir": "9.0606",
+    "foir_reason": null,
+    "categorisation_uncertain_debit_ratio": "0.0000"
+  },
+  "ACC002": {
+    "status": "needs_review",
+    "reasons": [
+      "reconciliation_failed"
+    ],
+    "months_of_history": 6,
+    "average_monthly_credits": "39583.33",
+    "salary": {
+      "average_monthly_amount": "15250.00",
+      "months_detected": 6,
+      "median_credit_day": 2.0,
+      "txn_ids": [
+        "bank_a_2.csv:4",
+        "bank_a_2.csv:15",
+        "bank_a_2.csv:27",
+        "bank_a_2.csv:38",
+        "bank_a_2.csv:49",
+        "bank_a_2.csv:60"
+      ]
+    },
+    "average_monthly_emi_outflow": "7658.33",
+    "emi_txn_ids": [
+      "bank_a_2.csv:5",
+      "bank_a_2.csv:16",
+      "bank_a_2.csv:28",
+      "bank_a_2.csv:39",
+      "bank_a_2.csv:50",
+      "bank_a_2.csv:61"
+    ],
+    "bounce_count": 6,
+    "bounce_txn_ids": [
+      "bank_a_2.csv:12",
+      "bank_a_2.csv:24",
+      "bank_a_2.csv:35",
+      "bank_a_2.csv:46",
+      "bank_a_2.csv:57",
+      "bank_a_2.csv:68"
+    ],
+    "total_bounce_charges": "87800.00",
+    "bounce_charge_txn_ids": [
+      "bank_a_2.csv:13",
+      "bank_a_2.csv:25",
+      "bank_a_2.csv:36",
+      "bank_a_2.csv:47",
+      "bank_a_2.csv:58",
+      "bank_a_2.csv:69"
+    ],
+    "average_end_of_day_balance": "43664.61",
+    "minimum_end_of_day_balance": "2300.00",
+    "foir": "0.5022",
+    "foir_reason": null,
+    "categorisation_uncertain_debit_ratio": "0.0000"
+  },
+  "ACC003": {
+    "status": "ready",
+    "reasons": [],
+    "months_of_history": 6,
+    "average_monthly_credits": "30670.83",
+    "salary": {
+      "average_monthly_amount": "14783.33",
+      "months_detected": 6,
+      "median_credit_day": 2.0,
+      "txn_ids": [
+        "bank_b_3.xlsx:4",
+        "bank_b_3.xlsx:15",
+        "bank_b_3.xlsx:26",
+        "bank_b_3.xlsx:37",
+        "bank_b_3.xlsx:48",
+        "bank_b_3.xlsx:59"
+      ]
+    },
+    "average_monthly_emi_outflow": "14408.33",
+    "emi_txn_ids": [
+      "bank_b_3.xlsx:5",
+      "bank_b_3.xlsx:16",
+      "bank_b_3.xlsx:27",
+      "bank_b_3.xlsx:38",
+      "bank_b_3.xlsx:49",
+      "bank_b_3.xlsx:60"
+    ],
+    "bounce_count": 6,
+    "bounce_txn_ids": [
+      "bank_b_3.xlsx:12",
+      "bank_b_3.xlsx:23",
+      "bank_b_3.xlsx:34",
+      "bank_b_3.xlsx:45",
+      "bank_b_3.xlsx:56",
+      "bank_b_3.xlsx:67"
+    ],
+    "total_bounce_charges": "91400.00",
+    "bounce_charge_txn_ids": [
+      "bank_b_3.xlsx:13",
+      "bank_b_3.xlsx:24",
+      "bank_b_3.xlsx:35",
+      "bank_b_3.xlsx:46",
+      "bank_b_3.xlsx:57",
+      "bank_b_3.xlsx:68"
+    ],
+    "average_end_of_day_balance": "-112496.91",
+    "minimum_end_of_day_balance": "-288100.00",
+    "foir": "0.9746",
+    "foir_reason": null,
+    "categorisation_uncertain_debit_ratio": "0.0000"
+  },
+  "ACC004": {
+    "status": "ready",
+    "reasons": [],
+    "months_of_history": 6,
+    "average_monthly_credits": "11095.83",
+    "salary": {
+      "average_monthly_amount": "1387.50",
+      "months_detected": 6,
+      "median_credit_day": 2.0,
+      "txn_ids": [
+        "bank_b_4.xlsx:4",
+        "bank_b_4.xlsx:15",
+        "bank_b_4.xlsx:26",
+        "bank_b_4.xlsx:37",
+        "bank_b_4.xlsx:48",
+        "bank_b_4.xlsx:59"
+      ]
+    },
+    "average_monthly_emi_outflow": "8650.00",
+    "emi_txn_ids": [
+      "bank_b_4.xlsx:5",
+      "bank_b_4.xlsx:16",
+      "bank_b_4.xlsx:27",
+      "bank_b_4.xlsx:38",
+      "bank_b_4.xlsx:49",
+      "bank_b_4.xlsx:60"
+    ],
+    "bounce_count": 6,
+    "bounce_txn_ids": [
+      "bank_b_4.xlsx:12",
+      "bank_b_4.xlsx:23",
+      "bank_b_4.xlsx:34",
+      "bank_b_4.xlsx:45",
+      "bank_b_4.xlsx:56",
+      "bank_b_4.xlsx:67"
+    ],
+    "total_bounce_charges": "5150.00",
+    "bounce_charge_txn_ids": [
+      "bank_b_4.xlsx:13",
+      "bank_b_4.xlsx:24",
+      "bank_b_4.xlsx:35",
+      "bank_b_4.xlsx:46",
+      "bank_b_4.xlsx:57",
+      "bank_b_4.xlsx:68"
+    ],
+    "average_end_of_day_balance": "-122958.85",
+    "minimum_end_of_day_balance": "-284450.00",
+    "foir": "6.2342",
+    "foir_reason": null,
+    "categorisation_uncertain_debit_ratio": "0.0000"
+  },
+  "ACC005": {
+    "status": "ready",
+    "reasons": [],
+    "months_of_history": 6,
+    "average_monthly_credits": "25133.33",
+    "salary": {
+      "average_monthly_amount": "8516.67",
+      "months_detected": 6,
+      "median_credit_day": 2.0,
+      "txn_ids": [
+        "bank_c_5.txt:3",
+        "bank_c_5.txt:14",
+        "bank_c_5.txt:27",
+        "bank_c_5.txt:38",
+        "bank_c_5.txt:51",
+        "bank_c_5.txt:62"
+      ]
+    },
+    "average_monthly_emi_outflow": "2116.67",
+    "emi_txn_ids": [
+      "bank_c_5.txt:4",
+      "bank_c_5.txt:15",
+      "bank_c_5.txt:28",
+      "bank_c_5.txt:39",
+      "bank_c_5.txt:52",
+      "bank_c_5.txt:63"
+    ],
+    "bounce_count": 6,
+    "bounce_txn_ids": [
+      "bank_c_5.txt:11",
+      "bank_c_5.txt:22",
+      "bank_c_5.txt:35",
+      "bank_c_5.txt:48",
+      "bank_c_5.txt:59",
+      "bank_c_5.txt:72"
+    ],
+    "total_bounce_charges": "17625.00",
+    "bounce_charge_txn_ids": [
+      "bank_c_5.txt:12",
+      "bank_c_5.txt:25",
+      "bank_c_5.txt:36",
+      "bank_c_5.txt:49",
+      "bank_c_5.txt:60",
+      "bank_c_5.txt:73"
+    ],
+    "average_end_of_day_balance": "38089.04",
+    "minimum_end_of_day_balance": "-86275.00",
+    "foir": "0.2485",
+    "foir_reason": null,
+    "categorisation_uncertain_debit_ratio": "0.0000"
+  },
+  "ACC006": {
+    "status": "ready",
+    "reasons": [],
+    "months_of_history": 6,
+    "average_monthly_credits": "31533.33",
+    "salary": {
+      "average_monthly_amount": "15216.67",
+      "months_detected": 6,
+      "median_credit_day": 2.0,
+      "txn_ids": [
+        "bank_c_6.txt:3",
+        "bank_c_6.txt:14",
+        "bank_c_6.txt:27",
+        "bank_c_6.txt:38",
+        "bank_c_6.txt:51",
+        "bank_c_6.txt:62"
+      ]
+    },
+    "average_monthly_emi_outflow": "1450.00",
+    "emi_txn_ids": [
+      "bank_c_6.txt:4",
+      "bank_c_6.txt:15",
+      "bank_c_6.txt:28",
+      "bank_c_6.txt:39",
+      "bank_c_6.txt:52",
+      "bank_c_6.txt:63"
+    ],
+    "bounce_count": 6,
+    "bounce_txn_ids": [
+      "bank_c_6.txt:11",
+      "bank_c_6.txt:22",
+      "bank_c_6.txt:35",
+      "bank_c_6.txt:48",
+      "bank_c_6.txt:59",
+      "bank_c_6.txt:72"
+    ],
+    "total_bounce_charges": "48325.00",
+    "bounce_charge_txn_ids": [
+      "bank_c_6.txt:12",
+      "bank_c_6.txt:25",
+      "bank_c_6.txt:36",
+      "bank_c_6.txt:49",
+      "bank_c_6.txt:60",
+      "bank_c_6.txt:73"
+    ],
+    "average_end_of_day_balance": "-2476.69",
+    "minimum_end_of_day_balance": "-37750.00",
+    "foir": "0.0953",
+    "foir_reason": null,
+    "categorisation_uncertain_debit_ratio": "0.0000"
+  }
+}

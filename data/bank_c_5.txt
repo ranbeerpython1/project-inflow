@@ -1,0 +1,74 @@
+ACCOUNT ACC005  OPENING BALANCE 50,000.00
+DATE       DESCRIPTION                              DEBIT       CREDIT      BALANCE
+02/01/26  SALARY ACME TECHNOLOGIES               42,000.00    92,000.00
+05/01/26  NACH EMI HOME LOAN           1,500.00               90,500.00
+09/01/26  UPI/RAHUL/PHONEPE              900.00               89,600.00
+12/01/26  ELECTRICITY BILL BESCOM      3,500.00               86,100.00
+15/01/26  ATM CASH WITHDRAWAL            125.00               85,975.00
+20/01/26  RENT PAYMENT                   900.00               85,075.00
+24/01/26  NEFT OWN ACCOUNT TRANSFER    1,800.00               83,275.00
+26/01/26  INTEREST CREDIT                           900.00    84,175.00
+27/01/26  NACH RETURN EMI BOUNCE                  2,200.00    86,375.00
+28/01/26  NACH RETURN CHARGES          3,500.00               82,875.00
+29/01/26  GROCERY MART POS               900.00               81,975.00
+01/02/26  SALARY ACME TECHNOLOGIES                2,200.00    84,175.00
+04/02/26  NACH EMI HOME LOAN           2,200.00               81,975.00
+08/02/26  UPI/RAHUL/PHONEPE            3,500.00               78,475.00
+11/02/26  ELECTRICITY BILL BESCOM        900.00               77,575.00
+14/02/26  ATM CASH WITHDRAWAL            900.00               76,675.00
+19/02/26  RENT PAYMENT                42,000.00               34,675.00
+23/02/26  NEFT OWN ACCOUNT TRANSFER    1,500.00               33,175.00
+25/02/26  INTEREST CREDIT                        42,000.00    75,175.00
+26/02/26  NACH RETURN EMI BOUNCE                    900.00    76,075.00
+PAGE TOTAL                                  END OF PAGE
+DATE       DESCRIPTION                              DEBIT       CREDIT      BALANCE
+27/02/26  NACH RETURN CHARGES            125.00               75,950.00
+28/02/26  GROCERY MART POS               900.00               75,050.00
+03/03/26  SALARY ACME TECHNOLOGIES                1,800.00    76,850.00
+06/03/26  NACH EMI HOME LOAN           2,200.00               74,650.00
+10/03/26  UPI/RAHUL/PHONEPE              700.00               73,950.00
+13/03/26  ELECTRICITY BILL BESCOM        900.00               73,050.00
+16/03/26  ATM CASH WITHDRAWAL          1,800.00               71,250.00
+21/03/26  RENT PAYMENT                 1,800.00               69,450.00
+25/03/26  NEFT OWN ACCOUNT TRANSFER    1,500.00               67,950.00
+27/03/26  INTEREST CREDIT                         3,500.00    71,450.00
+28/03/26  NACH RETURN EMI BOUNCE                    900.00    72,350.00
+29/03/26  NACH RETURN CHARGES          3,500.00               68,850.00
+30/03/26  GROCERY MART POS               125.00               68,725.00
+02/04/26  SALARY ACME TECHNOLOGIES                  700.00    69,425.00
+05/04/26  NACH EMI HOME LOAN           1,800.00               67,625.00
+09/04/26  UPI/RAHUL/PHONEPE            2,200.00               65,425.00
+12/04/26  ELECTRICITY BILL BESCOM      2,200.00               63,225.00
+15/04/26  ATM CASH WITHDRAWAL          3,500.00               59,725.00
+20/04/26  RENT PAYMENT                 1,800.00               57,925.00
+24/04/26  NEFT OWN ACCOUNT TRANSFER    1,500.00               56,425.00
+PAGE TOTAL                                  END OF PAGE
+DATE       DESCRIPTION                              DEBIT       CREDIT      BALANCE
+26/04/26  INTEREST CREDIT                         3,500.00    59,925.00
+27/04/26  NACH RETURN EMI BOUNCE                    700.00    60,625.00
+28/04/26  NACH RETURN CHARGES          3,500.00               57,125.00
+29/04/26  GROCERY MART POS             1,800.00               55,325.00
+02/05/26  SALARY ACME TECHNOLOGIES                  900.00    56,225.00
+05/05/26  NACH EMI HOME LOAN           1,500.00               54,725.00
+09/05/26  UPI/RAHUL/PHONEPE            1,800.00               52,925.00
+12/05/26  ELECTRICITY BILL BESCOM      1,500.00               51,425.00
+15/05/26  ATM CASH WITHDRAWAL         42,000.00                9,425.00
+20/05/26  RENT PAYMENT                42,000.00              -32,575.00
+24/05/26  NEFT OWN ACCOUNT TRANSFER    2,200.00              -34,775.00
+26/05/26  INTEREST CREDIT                         1,500.00   -33,275.00
+27/05/26  NACH RETURN EMI BOUNCE                    700.00   -32,575.00
+28/05/26  NACH RETURN CHARGES          3,500.00              -36,075.00
+29/05/26  GROCERY MART POS            42,000.00              -78,075.00
+01/06/26  SALARY ACME TECHNOLOGIES                3,500.00   -74,575.00
+04/06/26  NACH EMI HOME LOAN           3,500.00              -78,075.00
+08/06/26  UPI/RAHUL/PHONEPE              700.00              -78,775.00
+11/06/26  ELECTRICITY BILL BESCOM      1,800.00              -80,575.00
+14/06/26  ATM CASH WITHDRAWAL          3,500.00              -84,075.00
+PAGE TOTAL                                  END OF PAGE
+DATE       DESCRIPTION                              DEBIT       CREDIT      BALANCE
+19/06/26  RENT PAYMENT                 1,500.00              -85,575.00
+23/06/26  NEFT OWN ACCOUNT TRANSFER      700.00              -86,275.00
+25/06/26  INTEREST CREDIT                        42,000.00   -44,275.00
+26/06/26  NACH RETURN EMI BOUNCE                    900.00   -43,375.00
+27/06/26  NACH RETURN CHARGES          3,500.00              -46,875.00
+28/06/26  GROCERY MART POS             2,200.00              -49,075.00

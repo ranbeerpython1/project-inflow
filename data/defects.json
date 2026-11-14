@@ -1,0 +1,12 @@
+[
+  {
+    "account_id": "ACC001",
+    "type": "dropped_row",
+    "txn_id": "bank_a_1.csv:16"
+  },
+  {
+    "account_id": "ACC002",
+    "type": "duplicate_row",
+    "txn_id": "bank_a_2.csv:DUP16"
+  }
+]
